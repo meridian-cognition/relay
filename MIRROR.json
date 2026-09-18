@@ -1,15 +1,12 @@
 {
-  "snapshot": "2026-09-17a",
   "channel": "context",
-  "mirrored_at": "2026-09-17T09:46:44+00:00",
-  "files": 275,
-  "bytes": 2645484,
-  "blob": "context.tar.gz.gpg",
-  "blob_sha256": "2606995aa85a6133889cc52f681242c0b9be5997229663330f6a93b211319456",
-  "listing_sha256": "632ba3c4cdffdeb17c79fe44dbe7cc8512825158cfbc818a7766b26b17b96950",
-  "listing_format": "sha256 of sorted `rclone lsf -R --format pst` (path, size, modtime)",
-  "cipher": "gpg symmetric AES256, s2k SHA512",
-  "key": "store context-mirror/latest-key.json",
-  "index": "INDEX.md and MANIFEST.sha256 inside the archive",
-  "relay_run": "35206855011-1"
+  "status": "retired",
+  "retired": "2026-09-19",
+  "retired_by": "D-AZ",
+  "note": "This channel is retired. Project context is in the repository at context/ and travels in the repo channel. Read meridian-cognition/relay branch repo, per skills/content-acquisition/references/relay.md on main.",
+  "context_in_repo_from_digest": "e15d933b1c5d4540",
+  "context_in_repo_from_commit": "1803626345a0f4375ddf91018a10485082b3c191",
+  "last_relayed_snapshot": "2026-09-17a",
+  "last_relay_run": "35206855011-1",
+  "key": "none - context-mirror/latest-key.json removed when this channel was retired"
 }
