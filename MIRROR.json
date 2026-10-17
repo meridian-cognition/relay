@@ -1,0 +1,15 @@
+{
+  "snapshot": "b39545a5d78f19b5",
+  "channel": "repo",
+  "commit": "ba7fa6107d89a92950c6eb0183b29d8fda524a07",
+  "mirrored_at": "2026-10-17T04:41:47+00:00",
+  "files": 4914,
+  "bytes": 30798774,
+  "blob": "repo.tar.gz.gpg",
+  "blob_sha256": "0ff325224b286f8e58d750c8e2f7f9abe1cc9f15a8415d3f09df4d3c0ce245ed",
+  "listing_format": "none: currency is the repo digest in `snapshot`, from tools/repo_manifest.py --digest",
+  "cipher": "gpg symmetric AES256, s2k SHA512",
+  "key": "store context-mirror/repo-key.json",
+  "index": "MANIFEST.sha256 inside the archive; verify with python3 tools/repo_manifest.py --verify",
+  "relay_run": "39003488245-1"
+}
